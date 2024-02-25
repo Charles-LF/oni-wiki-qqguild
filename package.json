@@ -1,0 +1,22 @@
+{
+  "name": "koishi-plugin-oni-wiki-qqguild",
+  "description": "缺氧Wiki查询，QQ频道版本，需要官方群机器人md模板。尽量使用私域。",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "devDependencies": {},
+  "peerDependencies": {
+    "koishi": "^4.17.1"
+  }
+}
